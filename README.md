@@ -24,9 +24,4 @@ Simple tool to create a table with all annotation instances in an object detecti
 Required packages: [OpenCV](https://pypi.org/project/opencv-python/) 
 
 
-Any comments and issues are welcome!
-
-
-Example result:
-
-![example](example/example.png) 
+Any comments and issues are very welcome!
