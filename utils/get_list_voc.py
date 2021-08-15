@@ -11,7 +11,7 @@ def classes(anno_dir):
 
 	for f in anno_files:
 		if '.xml' not in f:
-			print('Annotation file not recognized')
+			print('Warning: annotation file not recognized')
 			continue
 
 		anno_file = anno_dir + f

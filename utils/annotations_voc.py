@@ -5,16 +5,6 @@ import xml.etree.ElementTree as ET
 import cv2
 
 
-# Function to clear data in instances folder before new run
-def clear_folder(directory):
-	instances_folder = directory
-	folders = os.listdir(instances_folder)
-	for folder in folders:
-			shutil.rmtree(instances_folder + folder)
-
-	print('Instances folder cleared')
-
-
 # Function to extract annotations from every image
 def extract(images_dir, annotations_dir, instances_dir, classes):
 	categories = classes
@@ -22,7 +12,6 @@ def extract(images_dir, annotations_dir, instances_dir, classes):
 	anno_dir = annotations_dir
 	save_dir = instances_dir
 
-	print('Extracting annotation instances')
 	for category in categories: 
 		os.mkdir(save_dir + category)
 

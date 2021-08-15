@@ -1,0 +1,15 @@
+{"images": 	[{"file_name": "1.jpg", "height": 594, "width": 409, "id": 1}, 
+		 {"file_name": "2.jpg", "height": 472, "width": 630, "id": 2}, 
+		 {"file_name": "3.jpg", "height": 472, "width": 630, "id": 3}, 
+		 {"file_name": "4.jpg", "height": 472, "width": 630, "id": 4}, 
+		 {"file_name": "5.jpg", "height": 525, "width": 700, "id": 5}, 
+		 {"file_name": "6.jpg", "height": 612, "width": 612, "id": 6}], 
+
+"type": "instances", 
+
+"annotations": 	[{"area": 131157, "iscrowd": 0, "image_id": 1, "bbox": [68, 23, 247, 531], "category_id": 3, "id": 1, "ignore": 0, "segmentation": []}, {"area": 5846, "iscrowd": 0, "image_id": 1, "bbox": [300, 500, 79, 74], "category_id": 0, "id": 2, "ignore": 0, "segmentation": []}, {"area": 92016, "iscrowd": 0, "image_id": 2, "bbox": [186, 16, 213, 432], "category_id": 1, "id": 3, "ignore": 0, "segmentation": []}, {"area": 4615, "iscrowd": 0, "image_id": 2, "bbox": [398, 387, 71, 65], "category_id": 0, "id": 4, "ignore": 0, "segmentation": []}, {"area": 113594, "iscrowd": 0, "image_id": 3, "bbox": [166, 21, 257, 442], "category_id": 2, "id": 5, "ignore": 0, "segmentation": []}, {"area": 4352, "iscrowd": 0, "image_id": 3, "bbox": [240, 402, 68, 64], "category_id": 0, "id": 6, "ignore": 0, "segmentation": []}, {"area": 103145, "iscrowd": 0, "image_id": 4, "bbox": [201, 11, 245, 421], "category_id": 2, "id": 7, "ignore": 0, "segmentation": []}, {"area": 5037, "iscrowd": 0, "image_id": 4, "bbox": [173, 399, 73, 69], "category_id": 0, "id": 8, "ignore": 0, "segmentation": []}, {"area": 121561, "iscrowd": 0, "image_id": 5, "bbox": [114, 17, 257, 473], "category_id": 3, "id": 9, "ignore": 0, "segmentation": []}, {"area": 73910, "iscrowd": 0, "image_id": 5, "bbox": [364, 67, 190, 389], "category_id": 1, "id": 10, "ignore": 0, "segmentation": []}, {"area": 5688, "iscrowd": 0, "image_id": 5, "bbox": [383, 432, 79, 72], "category_id": 0, "id": 11, "ignore": 0, "segmentation": []}, {"area": 64800, "iscrowd": 0, "image_id": 6, "bbox": [374, 99, 144, 450], "category_id": 2, "id": 12, "ignore": 0, "segmentation": []}, {"area": 120120, "iscrowd": 0, "image_id": 6, "bbox": [221, 116, 260, 462], "category_id": 1, "id": 13, "ignore": 0, "segmentation": []}, {"area": 70000, "iscrowd": 0, "image_id": 6, "bbox": [112, 32, 175, 400], "category_id": 3, "id": 14, "ignore": 0, "segmentation": []}, {"area": 5609, "iscrowd": 0, "image_id": 6, "bbox": [444, 527, 79, 71], "category_id": 0, "id": 15, "ignore": 0, "segmentation": []}], 
+
+"categories": 	[{"supercategory": "none", "id": 0, "name": "Football"}, 
+		 {"supercategory": "none", "id": 1, "name": "Messi"}, 
+		 {"supercategory": "none", "id": 2, "name": "Neymar"}, 
+		 {"supercategory": "none", "id": 3, "name": "Ronaldo"}]}

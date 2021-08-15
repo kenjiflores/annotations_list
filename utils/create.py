@@ -20,6 +20,7 @@ def write_html(path):
 
 # Function to create HTML table file from annotations in pandas dataframe
 def table(instances_dir, categories):
+	print('Creating HTML table')
 	classes = categories
 	save_dir = instances_dir
 
