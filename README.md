@@ -1,6 +1,6 @@
 ## Annotations List
 
-Simple tool to create a table with all annotation instances in an object detection dataset.
+Simple tool for visualizing objects category-wise in an annotated dataset. It aims to assist in the data pre-processing stage of building computer vision models. 
 
 (Works with COCO and Pascal VOC annotation formats)
 
