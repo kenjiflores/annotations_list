@@ -1,38 +1,50 @@
 <annotation>
-	<folder>exanno</folder>
+	<folder>train</folder>
 	<filename>2.jpg</filename>
-	<path>C:\Users\kenji\Desktop\exanno\2.jpg</path>
+	<path>C:\tensorflow1\models\research\object_detection\images\train\2.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
 	<size>
-		<width>630</width>
-		<height>472</height>
+		<width>1300</width>
+		<height>957</height>
 		<depth>3</depth>
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>Messi</name>
+		<name>orange</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>187</xmin>
-			<ymin>17</ymin>
-			<xmax>399</xmax>
-			<ymax>448</ymax>
+			<xmin>795</xmin>
+			<ymin>369</ymin>
+			<xmax>1173</xmax>
+			<ymax>780</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>Football</name>
+		<name>banana</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>399</xmin>
-			<ymin>388</ymin>
-			<xmax>469</xmax>
-			<ymax>452</ymax>
+			<xmin>147</xmin>
+			<ymin>48</ymin>
+			<xmax>869</xmax>
+			<ymax>476</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>banana</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>169</xmin>
+			<ymin>180</ymin>
+			<xmax>839</xmax>
+			<ymax>798</ymax>
 		</bndbox>
 	</object>
 </annotation>

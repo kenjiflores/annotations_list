@@ -30,4 +30,15 @@ Example result:
 ![example](example/example2.png) 
 
 
+### References:
+
+**Rendering images in pandas DataFrame:**
+Prabhu, T. (2020). Python. Accessed August 12, 2021 from https://github.com/Tanu-N-Prabhu/Python.
+
+
+**Fruits dataset:** 
+Buyukkinaci, M. (2018, July). Fruit Images for Object Detection, Version 1. Retrieved August 19, 2021 from https://www.kaggle.com/mbkinaci/fruit-images-for-object-detection/.
+
+
+
 Any comments and issues are very welcome!

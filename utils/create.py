@@ -10,10 +10,10 @@ import os
 def write_html(path):
 	html_tag = ''
 	if isinstance(path, str):
-		html_tag = '<img src="'+ path + '" style="max-height:250px;max-width:250px;min-height:30px;min-width:30px;height:auto;width:auto;" >'
+		html_tag = '<img src="'+ path + '" style="max-height:120px;max-width:120px;min-height:30px;min-width:30px;height:auto;width:auto;" >'
 	else:
 		for image in path:
-			string = '<img src="'+ image + '" style="max-height:250px;max-width:250px;min-height:30px;min-width:30px;height:auto;width:auto;" >\n'
+			string = '<img src="'+ image + '" style="max-height:120px;max-width:120px;min-height:30px;min-width:30px;height:auto;width:auto;" >\n'
 			html_tag = html_tag + string
 	return html_tag
 
