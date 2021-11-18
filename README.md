@@ -1,5 +1,7 @@
 ## Annotations List
 
+[![DOI](https://zenodo.org/badge/395146071.svg)](https://zenodo.org/badge/latestdoi/395146071)
+
 Simple tool for visualizing objects category-wise in an annotated dataset. It aims to assist in the data pre-processing stage of building computer vision models. 
 
 (Works with COCO and Pascal VOC annotation formats)
